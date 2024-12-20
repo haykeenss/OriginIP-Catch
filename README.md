@@ -22,8 +22,8 @@ Ensure you have the following installed on your system:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/resolve-ips.git
-    cd resolve-ips
+    git clone https://github.com/yourusername/OriginIP-Catch.git
+    cd OriginIP-Catch
     ```
 
 2. Install Python dependencies:
@@ -36,7 +36,7 @@ Ensure you have the following installed on your system:
 
     ```bash
     sudo apt install curl
-    sudo apt install httpx # or install httpx using your package manager
+    sudo apt install httpx # or install httpx using your package manager // sudo apt install httpx-toolkit
     ```
 
 ## Usage
