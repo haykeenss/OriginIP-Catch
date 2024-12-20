@@ -54,7 +54,7 @@ Ensure you have the following installed on your system:
    - Execute the script using Python:
 
      ```bash
-     python resolve_ips.py
+     python3 resolve_ips.py
      ```
 
 3. **Provide Input File**
