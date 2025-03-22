@@ -22,7 +22,7 @@ Ensure you have the following installed on your system:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/OriginIP-Catch.git
+    git clone https://github.com/haykeenss/OriginIP-Catch.git
     cd OriginIP-Catch
     ```
 
